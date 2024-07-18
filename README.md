@@ -13,7 +13,7 @@ I'm Whitney B. Lewis - a Quality Assurance Engineer with **CQAP certification** 
 
 <div align="justified">
   <a href="https://skillicons.dev/">
-    [![My Skills](https://skillicons.dev/icons?=js,ts,jira,jest,git,github,react,nodejs,postman,sublime,selenium,sql,html,css,vsc)](https://skillicons.dev)<br/>
+     <img src="https://skillicons.dev/icons?=js,ts,jira,jest,git,github,react,nodejs,postman,sublime,selenium,sql,html,css,vsc" /><br>
   </a>
 </div>
             
