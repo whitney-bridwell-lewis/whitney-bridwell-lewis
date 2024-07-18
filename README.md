@@ -17,7 +17,7 @@ I'm Whitney B. Lewis - a Quality Assurance Engineer with **CQAP certification** 
   </a>
 </div>
             
-            #
+            
   ---
 
 Skills: JavaScript / TypeScript / Git / GitHub / REACT / HTML / CSS / Node.js / Jira / Jest / SQL / Selenium / Visual Studios Code / SDLC / Debugging / Bug Reports
